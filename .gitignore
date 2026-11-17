@@ -1,0 +1,61 @@
+models/
+
+# Build directories
+build/
+cmake-build-*/
+out/
+bin/
+dist/
+
+# Compiled files
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+*.exe
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Environment and secrets
+.env
+.env.*
+
+# Model checkpoints and large model files
+*.safetensors
+*.gguf
+*.bin
+*.pt
+*.pth
+*.onnx
+
+# Python cache (if applicable)
+__pycache__/
+*.pyc
+.venv/
+venv/

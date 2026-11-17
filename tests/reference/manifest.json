@@ -1,0 +1,321 @@
+{
+    "input_ids": {
+        "file": "input_ids.bin",
+        "shape": [
+            1,
+            7
+        ],
+        "dtype": "int32",
+        "elements": 7
+    },
+    "embedding": {
+        "file": "embedding.bin",
+        "shape": [
+            1,
+            7,
+            3584
+        ],
+        "dtype": "float32",
+        "elements": 25088
+    },
+    "layer_00": {
+        "file": "layer_00.bin",
+        "shape": [
+            1,
+            7,
+            3584
+        ],
+        "dtype": "float32",
+        "elements": 25088
+    },
+    "layer_01": {
+        "file": "layer_01.bin",
+        "shape": [
+            1,
+            7,
+            3584
+        ],
+        "dtype": "float32",
+        "elements": 25088
+    },
+    "layer_02": {
+        "file": "layer_02.bin",
+        "shape": [
+            1,
+            7,
+            3584
+        ],
+        "dtype": "float32",
+        "elements": 25088
+    },
+    "layer_03": {
+        "file": "layer_03.bin",
+        "shape": [
+            1,
+            7,
+            3584
+        ],
+        "dtype": "float32",
+        "elements": 25088
+    },
+    "layer_04": {
+        "file": "layer_04.bin",
+        "shape": [
+            1,
+            7,
+            3584
+        ],
+        "dtype": "float32",
+        "elements": 25088
+    },
+    "layer_05": {
+        "file": "layer_05.bin",
+        "shape": [
+            1,
+            7,
+            3584
+        ],
+        "dtype": "float32",
+        "elements": 25088
+    },
+    "layer_06": {
+        "file": "layer_06.bin",
+        "shape": [
+            1,
+            7,
+            3584
+        ],
+        "dtype": "float32",
+        "elements": 25088
+    },
+    "layer_07": {
+        "file": "layer_07.bin",
+        "shape": [
+            1,
+            7,
+            3584
+        ],
+        "dtype": "float32",
+        "elements": 25088
+    },
+    "layer_08": {
+        "file": "layer_08.bin",
+        "shape": [
+            1,
+            7,
+            3584
+        ],
+        "dtype": "float32",
+        "elements": 25088
+    },
+    "layer_09": {
+        "file": "layer_09.bin",
+        "shape": [
+            1,
+            7,
+            3584
+        ],
+        "dtype": "float32",
+        "elements": 25088
+    },
+    "layer_10": {
+        "file": "layer_10.bin",
+        "shape": [
+            1,
+            7,
+            3584
+        ],
+        "dtype": "float32",
+        "elements": 25088
+    },
+    "layer_11": {
+        "file": "layer_11.bin",
+        "shape": [
+            1,
+            7,
+            3584
+        ],
+        "dtype": "float32",
+        "elements": 25088
+    },
+    "layer_12": {
+        "file": "layer_12.bin",
+        "shape": [
+            1,
+            7,
+            3584
+        ],
+        "dtype": "float32",
+        "elements": 25088
+    },
+    "layer_13": {
+        "file": "layer_13.bin",
+        "shape": [
+            1,
+            7,
+            3584
+        ],
+        "dtype": "float32",
+        "elements": 25088
+    },
+    "layer_14": {
+        "file": "layer_14.bin",
+        "shape": [
+            1,
+            7,
+            3584
+        ],
+        "dtype": "float32",
+        "elements": 25088
+    },
+    "layer_15": {
+        "file": "layer_15.bin",
+        "shape": [
+            1,
+            7,
+            3584
+        ],
+        "dtype": "float32",
+        "elements": 25088
+    },
+    "layer_16": {
+        "file": "layer_16.bin",
+        "shape": [
+            1,
+            7,
+            3584
+        ],
+        "dtype": "float32",
+        "elements": 25088
+    },
+    "layer_17": {
+        "file": "layer_17.bin",
+        "shape": [
+            1,
+            7,
+            3584
+        ],
+        "dtype": "float32",
+        "elements": 25088
+    },
+    "layer_18": {
+        "file": "layer_18.bin",
+        "shape": [
+            1,
+            7,
+            3584
+        ],
+        "dtype": "float32",
+        "elements": 25088
+    },
+    "layer_19": {
+        "file": "layer_19.bin",
+        "shape": [
+            1,
+            7,
+            3584
+        ],
+        "dtype": "float32",
+        "elements": 25088
+    },
+    "layer_20": {
+        "file": "layer_20.bin",
+        "shape": [
+            1,
+            7,
+            3584
+        ],
+        "dtype": "float32",
+        "elements": 25088
+    },
+    "layer_21": {
+        "file": "layer_21.bin",
+        "shape": [
+            1,
+            7,
+            3584
+        ],
+        "dtype": "float32",
+        "elements": 25088
+    },
+    "layer_22": {
+        "file": "layer_22.bin",
+        "shape": [
+            1,
+            7,
+            3584
+        ],
+        "dtype": "float32",
+        "elements": 25088
+    },
+    "layer_23": {
+        "file": "layer_23.bin",
+        "shape": [
+            1,
+            7,
+            3584
+        ],
+        "dtype": "float32",
+        "elements": 25088
+    },
+    "layer_24": {
+        "file": "layer_24.bin",
+        "shape": [
+            1,
+            7,
+            3584
+        ],
+        "dtype": "float32",
+        "elements": 25088
+    },
+    "layer_25": {
+        "file": "layer_25.bin",
+        "shape": [
+            1,
+            7,
+            3584
+        ],
+        "dtype": "float32",
+        "elements": 25088
+    },
+    "layer_26": {
+        "file": "layer_26.bin",
+        "shape": [
+            1,
+            7,
+            3584
+        ],
+        "dtype": "float32",
+        "elements": 25088
+    },
+    "layer_27": {
+        "file": "layer_27.bin",
+        "shape": [
+            1,
+            7,
+            3584
+        ],
+        "dtype": "float32",
+        "elements": 25088
+    },
+    "final_norm": {
+        "file": "final_norm.bin",
+        "shape": [
+            1,
+            7,
+            3584
+        ],
+        "dtype": "float32",
+        "elements": 25088
+    },
+    "logits": {
+        "file": "logits.bin",
+        "shape": [
+            1,
+            7,
+            152064
+        ],
+        "dtype": "float32",
+        "elements": 1064448
+    }
+}

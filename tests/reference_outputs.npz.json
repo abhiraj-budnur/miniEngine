@@ -1,0 +1,8 @@
+{
+    "model": "./models/qwen2.5-7B/",
+    "dtype": "float32",
+    "sequence_length": 7,
+    "num_layers": 28,
+    "hidden_size": 3584,
+    "vocab_size": 152064
+}
