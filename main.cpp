@@ -230,6 +230,17 @@ void inspect_model(const std::string &directory)
 
     model::WeightMapper mapper(directory);
 
+    std::cout
+        << "Embedding checkpoint dtype: "
+        << mapper.get_dtype("model.embed_tokens.weight")
+        << '\n';
+
+    // DEBUG: Inspect embedding checkpoint dtype
+    std::cout
+        << "Embedding checkpoint dtype: "
+        << mapper.get_dtype("model.embed_tokens.weight")
+        << '\n';
+
     auto names = mapper.tensor_names();
 
     std::cout << "Indexed tensors: "

@@ -174,7 +174,7 @@ namespace model
     }
 
 }
-std::string WeightMapper::get_dtype(
+std::string model::WeightMapper::get_dtype(
     const std::string &tensor_name)
 {
     auto it = tensor_to_shard_.find(tensor_name);
